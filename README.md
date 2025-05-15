@@ -1,4 +1,4 @@
-![logo](https://github.com/sanjaykumar200599/sanjaykumar200599/blob/main/github_profile_pic.jpg)
+![logo](https://github.com/sanjaykumar200599/sanjaykumar200599/blob/main/github_profile_pic.JPG)
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">👋 Hi there! I'm Sanjay Kumar, a passionate Full Stack Developer and enthusiastic Machine Learning explorer</h3>
 <h3 align="center">🔭 Currently exploring the world of AI and software engineering, with projects focused on Artificial Intelligence</h3>

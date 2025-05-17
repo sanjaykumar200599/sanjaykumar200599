@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **Jackjod**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **Open source Projects**
-
-- 🤝 I’m looking for help with **collaborators**
+- 🌱 I’m currently learning **MERN Stack, AI/ML **
 
 - 👨‍💻 All of my projects are available at [sanjay@portfolio](sanjay@portfolio)
 

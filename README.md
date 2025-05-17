@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
 
 
-- 🔭 I’m currently working on **Jackjod**
-
 - 🌱 I’m currently learning **MERN Stack, AI/ML**
 
 - 👨‍💻 All of my projects are available at [sanjay@portfolio](sanjay@portfolio)

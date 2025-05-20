@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanjaykumarn9189@gmail.com**
 
-- ⚡ Fun fact **I like Tech And Fitness.**
+- ⚡ Fun fact **I like Tech And Fitness enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

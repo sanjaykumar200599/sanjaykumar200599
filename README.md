@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN Stack, AI/ML**
 
-- 👨‍💻 All of my projects are available at [sanjay@portfolio](sanjay@portfolio)
-
 - 💬 Ask me about **React, Express, NextJS, Supabase**
 
 - 📫 How to reach me **sanjaykumarn9189@gmail.com**

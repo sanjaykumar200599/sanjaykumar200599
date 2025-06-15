@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, AI/ML**
 
-- 💬 Ask me about **ReactJS, ExpressJS, NextJS, Supabase**
+- 💬 Ask me about **ReactJS, ExpressJS, NextJS, MongoDB**
 
 - 📫 How to reach me **sanjaykumarn9189@gmail.com**
 

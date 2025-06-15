@@ -1,7 +1,7 @@
 ![logo](https://github.com/sanjaykumar200599/sanjaykumar200599/blob/main/github_profile_pic.JPG)
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">A Passionate Software Developer and Machine Learning enthusiast.</h3>
-<h3 align="center">🔭 Currently exploring the world of AI, ML, Designing with projects focused on Artificial Intelligence.</h3>
+<h3 align="center">🔭 Currently exploring the world of AI, ML with projects focused on Artificial Intelligence.</h3>
 <h3 align="center">💡I enjoy learning new technologies, contributing to open-source, writing clean,and maintainable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>

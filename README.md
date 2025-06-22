@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
     
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack, AI/ML <br><br>💬 Ask me about ReactJS, NodeJS, NextJS, MongoDB<br><br>📫 How to reach me sanjaykumarn9189@gmail.com
+🌱 I’m currently learning MERN Stack,AI/ML <br><br>💬 Ask me about ReactJS, NodeJS, NextJS, MongoDB<br><br>📫 How to reach me sanjaykumarn9189@gmail.com
 
 
 ## 🌐 Socials:

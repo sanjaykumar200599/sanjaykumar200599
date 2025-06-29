@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
     
 # 💫 About Me:
-🌱 I’m currently learning about Technologies. <br><br>💬 Ask me about Dev <br><br>📫 How to reach me sanjaykumar200599@gmail.com
+🌱 I’m currently learning about Technologies. <br><br>💬 Ask me about dev <br><br>📫 How to reach me sanjaykumar200599@gmail.com
 
 
 ## 🌐 Socials:

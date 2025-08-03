@@ -8,7 +8,7 @@
     
 # 💫 About Me:
 🌱 I’m currently learning about Fullstack , AI/ML. <br><br>💬 Ask me about Reactjs, Java, Nodejs, SQL. <br><br>🌐
-Portoflio https://portfolio-sanjay-in.vercel.app/   <br><br>📫 How to reach me sanjaykumar200599@gmail.com 
+Portfolio https://portfolio-sanjay-in.vercel.app/   <br><br>📫 How to reach me sanjaykumar200599@gmail.com 
 
 
 

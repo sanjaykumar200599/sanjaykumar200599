@@ -7,7 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
     
 # 💫 About Me:
-🌱 I’m currently learning about Fullstack , AI/ML. <br><br>💬 Ask me about Reactjs, Java, Nodejs, SQL. <br><br>📫 How to reach me sanjaykumar200599@gmail.com
+🌱 I’m currently learning about Fullstack , AI/ML. <br><br>💬 Ask me about Reactjs, Java, Nodejs, SQL. <br><br>📫 How to reach me sanjaykumar200599@gmail.com   <br><br><img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/3b320ffd-54ff-49cf-a7c9-ab01f6aa3fdb" />
+Portofolio https://portfolio-sanjay-in.vercel.app/
+
 
 
 ## 🌐 Socials:

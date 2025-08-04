@@ -11,7 +11,7 @@
 
 💬 Let's Connect: I’m open to discussions on React.js, Java, Node.js, and SQL.
 
-🌐 Portfolio: portfolio-sanjay-in.vercel.app
+🌐 Portfolio: http://portfolio-sanjay-in.vercel.app
 
 📫 Reach Me At: sanjaykumar200599@gmail.com
 

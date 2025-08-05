@@ -9,7 +9,7 @@
 # 💫 About Me:
 🌱 Currently Exploring: Full-Stack Development & AI/ML technologies.
 
-💬 Let's Connect: I’m open to discussions on React.js, Java, Node.js, and SQL.
+💬 Let's Connect: I’m open to discussions on React.js, Java, Node.js, and Sql.
 
 🌐 Portfolio: http://portfolio-sanjay-in.vercel.app
 

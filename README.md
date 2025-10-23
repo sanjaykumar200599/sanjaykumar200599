@@ -9,7 +9,7 @@
 # 💫 About Me:
 🌱 Currently Exploring: Full-Stack Development, GenAI & AI/ML Technologies. 
 
-💬 Let's Connect: I’m open to discussions on Reactjs, Nodejs , Java  and MySql.
+💬 Let's Connect: I’m open to discussions on Reactjs, Nodejs, Java and MySql.
 
 🌐 Portfolio: http://portfolio-sanjay-in.vercel.app
 

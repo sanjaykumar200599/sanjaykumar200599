@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
     
 # 💫 About Me:
-🌱 Currently Exploring: Full-Stack Development, GenAI & AI/ML Technologies 
+🌱 Currently Exploring: Full-Stack Development, GenAI & AI/ML Technologies.
 
 💬 Let's Connect: I’m open to discussions on Reactjs, Nodejs, Java and MySql.
 

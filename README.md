@@ -74,6 +74,7 @@
 GitHub trophies:
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sanjaykumar200599&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---

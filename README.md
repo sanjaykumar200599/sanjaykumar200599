@@ -71,10 +71,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sanjaykumar200599&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sanjaykumar200599&theme=algolia&hide_border=false)<br/>
 
-GitHub trophies:
-
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=sanjaykumar200599&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---

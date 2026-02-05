@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=1500&color=%2338C2FF&size=40&height=130&width=800&lines=;Welcome+to+my+profile+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=130&width=800&lines=;Welcome+to+my+profile+!">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

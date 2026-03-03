@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">🤖 A Passionate Software Developer and AIML enthusiast.</h3>
-<h3 align="center">🔭 Currently exploring the world of AI, ML with projects focused on GenAI Technology.</h3>
+<h3 align="center">🔭 Currently exploring the world of AI, ML with projects focused on GenAI Technologies.</h3>
 <h3 align="center">💡I enjoy learning new technologies, contributing to open-source, writing clean, and maintainable code.</h3><br>
 
 
